@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 - **Who am I?** - Currently, I'm frontend developer for 2 years and I'm working on migrating from AngularJS to React framework in a big project.
-- **Where am I working?** - I'm working in [SPSCommerce](https://www.spscommerce.com/) company last 4 years.
+- **Where am I working?** - I'm working in [SPSCommerce](https://www.spscommerce.com/) company last 4 years. I'm a member of a team of 16 people where is 5 frontend developers including me.
 - **What I did before?** - I was backend developer for 7 years. I was working with Python, AWS, Docker, MySQL, Redis technologies. I've implemented a lot of difference API services.
 - **What is my hobby?** - I have 3D printer and when I have free time I printing some 3D objects or create something new in Fusion. Also, I'm programming microcontrollers (e.g. some IoT devices for my home).
 
