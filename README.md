@@ -14,4 +14,5 @@ https://www.codewars.com/users/Tynik
 
 **My Own Projects**
 
-https://smart-home-tech.com.ua
+1. [Smart Home Tech](https://smart-home-tech.com.ua)
+1. [Web Workers](https://github.com/Tynik/web-workers)
