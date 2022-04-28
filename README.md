@@ -16,3 +16,7 @@ https://www.codewars.com/users/Tynik
 
 1. [Smart Home Tech](https://smart-home-tech.com.ua) - It's my hobby shop. Sell smart home devices and other stuff.
 1. [Web Workers](https://github.com/Tynik/web-workers) - Run a function as task in thread using Web Workers. Integrated with React and Brain.js.
+
+**Social**
+
+1. [Medium](https://medium.com/@m.aliinyk)
