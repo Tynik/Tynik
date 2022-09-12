@@ -1,9 +1,8 @@
 ### Hi everyone 👋
 
-- **Who am I?** - Currently, I'm Sr. frontend developer for 3 years and I work on migrating from AngularJS to React framework in a huge project.
-- **Where am I working?** - I'm working in [SPSCommerce](https://www.spscommerce.com/) company last 5 years. I'm a member of a team of 17 people where is 6 frontend developers including me.
-- **What I did before?** - I was backend developer for 7 years. I was working with Python, AWS, Docker, MySQL, Redis technologies. I've implemented a lot of different API services.
-- **What is my hobby?** - I have 3D printer and when I have free time I print some 3D objects or create something new in Fusion. Also, I program microcontrollers and smart-home stuff.
+- **Who am I?** - Currently, I'm position me as Frontend developer with experience more than 3 years.
+- **Where am I working?** - I'm working in ManageGo. Before I was working in SPSCommerce 6 years as Backend (3 years) and Sr. Frontend developer (3 years) after.
+- **What I did before?** - I was Backend developer for 7 years. I was working with Python, AWS, Docker, MySQL, Redis technologies. I've implemented a lot of different API services.
 - **Contests** - I've been participated in TON contest and I implemented the [compiler](https://github.com/Tynik/python-fift) on Python to Fift language and won for that idea 500$ =)).
 
 **Codewars**
